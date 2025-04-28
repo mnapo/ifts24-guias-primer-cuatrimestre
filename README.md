@@ -6,6 +6,7 @@ Av. Entre Ríos 757, CABA, Argentina
 
 ### Administración y Gestión de Base de Datos
 - Trabajo Práctico Nº1 (Normalización): https://github.com/mnapo/ifts24-administracion-gestion-bases-tp1
+- Guía de DER: https://github.com/mnapo/ifts24-administracion-gestion-bases-der
 
 ### Elementos de Análisis Matemático
 - Guía de Sistemas de Ecuaciones, Matrices y Determinantes: https://github.com/mnapo/ifts24-analisis-guia-matrices
