@@ -15,6 +15,7 @@ Av. Entre Ríos 757, CABA, Argentina
 
 ### Lógica Computacional
 - Guía de Proposiciones: https://github.com/mnapo/ifts24-logica-guia-proposiciones
+- Guía de Conjuntos: https://github.com/mnapo/ifts24-logica-guia-conjuntos
 
 ### Técnicas de Programación
 - Guía de Algoritmos: https://github.com/mnapo/ifts24-tecnicas-programacion-guia-algoritmos
