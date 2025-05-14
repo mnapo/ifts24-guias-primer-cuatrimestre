@@ -21,3 +21,4 @@ Av. Entre Ríos 757, CABA, Argentina
 - Guía de Algoritmos: https://github.com/mnapo/ifts24-tecnicas-programacion-guia-algoritmos
 - Guía de Pseudocódigo: https://github.com/mnapo/ifts24-tecnicas-programacion-guia-pseudocodigo
 - Ejercicios de Python: https://github.com/mnapo/ifts24-tecnicas-programacion-python
+- Guía de Python: https://github.com/mnapo/ifts24-tecnicas-programacion-python2
